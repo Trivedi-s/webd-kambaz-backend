@@ -1,4 +1,4 @@
-export default[
+[
   { "_id": "A101", "title": "React Basics Assignment", "course": "1234", "description": "Introduction to React fundamentals including JSX syntax, component structure, and basic rendering concepts.", "points": "100", "editorDueDate": "2025-03-25", "editorAvailableFrom": "2025-03-13", "dueDate": "2025-03-26", "availableFrom": "2025-03-12" },
   { "_id": "A102", "title": "React Components Project", "course": "1234", "description": "Hands-on project focused on creating and composing functional and class components in React applications.", "points": "150", "editorDueDate": "2025-04-01", "editorAvailableFrom": "2025-03-15", "dueDate": "2025-04-02", "availableFrom": "2025-03-14" },
   { "_id": "A103", "title": "React State and Props Quiz", "course": "1234", "description": "Assessment covering React's state management, props passing, and component communication patterns.", "points": "50", "editorDueDate": "2025-04-05", "editorAvailableFrom": "2025-04-01", "dueDate": "2025-04-06", "availableFrom": "2025-03-31" },
