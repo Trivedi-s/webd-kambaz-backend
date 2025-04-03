@@ -1,4 +1,4 @@
-[
+export default[
     { "_id": 1234, "title": "React JS", "image": "/images/reactjs.jpg", "description": "Full Stack software developer" },
     { "_id": 1235, "title": "Node JS", "image": "/images/node.png", "description": "Backend development" },
     { "_id": 1236, "title": "Angular JS", "image": "/images/angular.png", "description": "Frontend framework" },
